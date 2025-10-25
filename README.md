@@ -5,7 +5,7 @@
 | [<img src="gifs/confitour.gif" width="300"/>](gifs/confitour.gif) | [<img src="gifs/confeatures.gif" width="300"/>](gifs/confeatures.gif) |
 | **Description:** A 3D local multiplayer game (2 to 4 players) about making the highest pile of toasts, with power-ups. <br> **What I learned:** Using viewports for local multiplayer, creating input selection menus, 3D interactions, physics, and particle effects. <br> 🔗 **[Play it here](https://jeuconfiture.itch.io/confitour-gamejamesir2025)** | **Description:** You want to retire from being a hero to raise sheep — a small platformer that goes from the end to the beginning. Will you restore what you did or rush to the start at all costs? <br> **What I learned:** Parallax effects and 2D physics. <br> 🔗 **[Play it here](https://esir-gamejam.itch.io/confeatures)** |
 
-| [Inventory and more](gifs/inventory.gif) | [Terraria ModJam participation](gifs/inventory.gif) |
+| [Inventory and more](gifs/inventory.gif) | [Terraria ModJam participation](gifs/terraria_modjam3.gif) |
 |---------------------------------|---------------------------------------|
 | [<img src="gifs/inventory.gif" width="300"/>](gifs/inventory.gif) | [<img src="gifs/terraria_modjam3.gif" width="300"/>](gifs/terraria_modjam3.gif) |
 | **Description:** An experimental prototype testing various features — from enemies with state machines and inventory management to automatic item transportation (inspired by Factorio) and even a rhythm mini-game with an in-game editor. <br> **What I learned:** Building a proper inventory system and creating shaders. <br> 🔗 **[Play it here](https://baptistea.itch.io/atinyfantasy-v001)** | **Description:** A multiplayer mod created for the Terraria ModJam, featuring a brand new boss, a transformation ability with a custom shader, and several additional elements such as new items, an NPC, and a custom currency.<br> **What I’ll learn:** Developing within an existing game framework, using network synchronization, and collaborating with a team formed specifically for this project. <br> 🔗 **[Play it here](https://steamcommunity.com/sharedfiles/filedetails/?id=3592546116)** |
@@ -19,3 +19,4 @@
 |---------------------------------|----|
 | [<img src="gifs/city_builder.gif" width="300"/>](gifs/city_builder.gif) |   |
 | **Description:** *OverPopul(arN)ation* is a 2D city builder where you must expand your population without spreading a virus. <br> **What I learned:** Working with 2D tilemaps. <br> 🔗 **[Play it here](https://baptistea.itch.io/overpopularnation)** |   |
+
